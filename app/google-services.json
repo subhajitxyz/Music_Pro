@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "710800420647",
+    "project_id": "music-pro-47243",
+    "storage_bucket": "music-pro-47243.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710800420647:android:693136058b0ec43c174302",
+        "android_client_info": {
+          "package_name": "com.example.musicpro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKOKqoD-vrbn9O9SnVEad-jS-mCxEdLfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
